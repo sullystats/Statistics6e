@@ -1,7 +1,6 @@
 Here is the data for Chapter 1
 
 |Section|Problem|URL|
-|-------|-------|---|
 |:---:|:---:|:---:|
 |3|11|<a>https://sullystats.github.io/Data/Chapter1/1_3_11.csv</a><br/>|
 |3|12|<a>https://sullystats.github.io/Data/Chapter1/1_3_12.csv</a><br/>|
