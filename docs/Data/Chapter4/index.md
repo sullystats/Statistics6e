@@ -56,5 +56,5 @@ Here is the data for Chapter 3.
 | | |
 |Chapter Test|1|<a>https://sullystats.github.io/Statistics6e/Data/Chapter4/4_ct_1.CSV</a><br/>|
 |Chapter Test|5|<a>https://sullystats.github.io/Statistics6e/Data/Chapter4/4_ct_5.CSV</a><br/>|
-
+| | |
 |Student Activity Workbook| |<a>https://sullystats.github.io/Statistics6e/Data/Chapter4/Galton_Data.CSV</a><br/>|
