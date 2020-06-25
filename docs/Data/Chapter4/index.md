@@ -41,6 +41,7 @@ Here is the data for Chapter 3.
 |3|31|<a>https://sullystats.github.io/Statistics6e/Data/Chapter4/4_3_31.CSV</a><br/>|
 |3|32|<a>https://sullystats.github.io/Statistics6e/Data/Chapter4/4_3_32.CSV</a><br/>|
 |3|33|<a>https://sullystats.github.io/Statistics6e/Data/Chapter4/4_3_33.CSV</a><br/>|
+|3|34|<a>https://sullystats.githug.io/Statistics6e/Data/SullivanStatsSurveyII.csv</a><br/>
 | | |
 |5|39|<a>https://sullystats.github.io/Statistics6e/Data/Chapter4/4_5_39.CSV</a><br/>|
 |5|40|<a>https://sullystats.github.io/Statistics6e/Data/Chapter4/4_5_40.CSV</a><br/>|
