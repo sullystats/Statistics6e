@@ -35,6 +35,7 @@ Here is the data for Chapter 3.
 |2|44|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_2_44.CSV</a><br>|
 |2|48(a)|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_2_48a.CSV</a><br>|
 |2|48(e)|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_2_48e.CSV</a><br>|
+|2|49,50|<a>https://sullystats.github.io/Statistics6e/Data/SullivanStatsSurveyI.csv</a><br>|
 |2|51|<a>https://sullystats.github.io/Statistics6e/Data/Tornadoes_2017.csv</a><br/>
 | | |
 |3|1|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_3_1.CSV</a><br>|
