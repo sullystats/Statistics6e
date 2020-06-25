@@ -31,3 +31,36 @@ Here is the data for Chapter 2.
 |2|32|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_2_32.CSV</a><br/>|
 |2|34|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_2_34.CSV</a><br/>|
 |2|35|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_2_35.CSV</a><br/>|
+| | |
+|3|15|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_3_15.CSV</a><br/>|
+|3|16|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_3_16.CSV</a><br/>|
+|3|17|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_3_17.CSV</a><br/>|
+|3|18|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_3_18.CSV</a><br/>|
+|3|19|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_3_19.CSV</a><br/>|
+|3|20|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_3_20.CSV</a><br/>|
+|3|21|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_3_21.CSV</a><br/>|
+|3|22|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_3_22.CSV</a><br/>|
+|3|27|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_3_27.CSV</a><br/>|
+|3|28|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_3_28.CSV</a><br/>|
+|3|29|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_3_29.CSV</a><br/>|
+|3|30|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_3_30.CSV</a><br/>|
+|3|31|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_3_31.CSV</a><br/>|
+| | |
+|4|11|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_4_11.CSV</a><br/>|
+| | |
+|Chapter Review|2|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_r_2.CSV</a><br/>|
+|Chapter Review|3|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_r_3.CSV</a><br/>|
+|Chapter Review|4|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_r_4.CSV</a><br/>|
+|Chapter Review|5|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_r_5.CSV</a><br/>|
+|Chapter Review|6|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_r_6.CSV</a><br/>|
+|Chapter Review|7|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_r_7.CSV</a><br/>|
+|Chapter Review|8|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_r_8.CSV</a><br/>|
+|Chapter Review|10|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_r_10.CSV</a><br/>|
+| | |
+|Chapter Test|2|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_ct_2.CSV</a><br/>|
+|Chapter Test|3|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_ct_3.CSV</a><br/>|
+|Chapter Test|4|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_ct_4.CSV</a><br/>|
+|Chapter Test|5|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_ct_5.CSV</a><br/>|
+|Chapter Test|6|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_ct_6.CSV</a><br/>|
+|Chapter Test|7|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_ct_7.CSV</a><br/>|
+|Chapter Test|8|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_ct_8.CSV</a><br/>|
