@@ -14,7 +14,7 @@ Here is the data for Chapter 2.
 |1|22|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_1_22.CSV</a><br/>|
 |1|23|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_1_23.CSV</a><br/>|
 |1|24|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_1_24.CSV</a><br/>|
-|1|25|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_1_25.CSV</a><br/>|
+|1|25|<a>https://sullystats.github.io/Statistics6e/Data/Tornadoes_2017.csv</a><br/>|
 |1|26|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_1_26.CSV</a><br/>|
 | | |
 |2|15|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_2_15.CSV</a><br/>|
@@ -29,6 +29,7 @@ Here is the data for Chapter 2.
 |2|28|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_2_28.CSV</a><br/>|
 |2|29|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_2_29.CSV</a><br/>|
 |2|32|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_2_32.CSV</a><br/>|
+|2|33|<a>https://sullystats.github.io/Statistics6e/Data/Tornadoes_2017.csv</a><br/>|
 |2|34|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_2_34.CSV</a><br/>|
 |2|35|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_2_35.CSV</a><br/>|
 | | |
