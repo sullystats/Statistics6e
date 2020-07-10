@@ -13,7 +13,7 @@ Here is the data for Chapter 7.
 |3|9|<a>https://sullystats.github.io/Statistics6e/Data/Chapter7/7_3_9.CSV</a><br/>|
 |3|10|<a>https://sullystats.github.io/Statistics6e/Data/Chapter7/7_3_10.CSV</a><br/>|
 |3|11|<a>https://sullystats.github.io/Statistics6e/Data/Chapter7/7_3_11.CSV</a><br/>|
-|3|12|<a>https://sullystats.github.io/Statistics6e/Data/Chapter7/7_3_12.CSV</a>br/>|
+|3|12|<a>https://sullystats.github.io/Statistics6e/Data/Chapter7/7_3_12.CSV</a><br/>|
 |3|13|<a>https://sullystats.github.io/Statistics6e/Data/Chapter7/7_3_13.CSV</a><br/>|
 | | |
 |Chapter Review|16|<a>https://sullystats.github.io/Statistics6e/Data/Chapter7/7_r_16.CSV</a><br/>|
