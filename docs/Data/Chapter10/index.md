@@ -24,3 +24,13 @@ Here is the data for Chapter 10.
 |3A|4|<a>https://sullystats.github.io/Statistics6e/Data/Chapter10/10_3A_4.CSV</a><br/>|
 |3A|10|<a>https://sullystats.github.io/Statistics6e/Data/Chapter10/10_3A_10.CSV</a><br/>|
 |3A|12 and 13|<a>https://sullystats.github.io/Statistics6e/Data/Chapter10/ChicagoTaxi.CSV</a><br/>|
+| | |
+|4|14|<a>https://sullystats.github.io/Statistics6e/Data/Chapter10/10_4_14.CSV</a><br/>|
+|4|17|<a>https://sullystats.github.io/Statistics6e/Data/Chapter10/10_4_17.CSV</a><br/>|
+| | |
+|5|14|<a>https://sullystats.github.io/Statistics6e/Data/SullivanStatsSurveyI.csv</a><br/>|
+|5|17|<a>https://sullystats.github.io/Statistics6e/Data/Chapter10/10_5_17.CSV</a><br/>|
+|5|22|<a>https://sullystats.github.io/Statistics6e/Data/Chapter10/10_5_22.CSV</a><br/>|
+|5|23|<a>https://sullystats.github.io/Statistics6e/Data/Chapter10/10_5_23.CSV</a><br/>|
+| | |
+|Chapter Review|15|<a>https://sullystats.github.io/Statistics6e/Data/Chapter10/10_r_15.CSV</a><br/>|
