@@ -3,7 +3,7 @@ Here is the data for Chapter 9.
 |Section|Problem|URL|
 |:---:|:---:|:---:|
 |1|33|<a>https://sullystats.github.io/Statistics6e/Data/Tornadoes_2017.csv</a><br/>|
-|1|33(e)|<a>https://sullystats.github.io/Statistics6e/Data/Chapter8/8_1_33e.CSV</a><br/>|
+|1|33(e)|<a>https://sullystats.github.io/Statistics6e/Data/Chapter9/9_1_33b.CSV</a><br/>|
 |1|33(b)|<a>https://sullystats.github.io/Statistics6e/Data/Chapter9/9_1_33b.CSV</a><br/>|
 |1|33(h)|<a>https://sullystats.github.io/Statistics6e/Data/Chapter9/9_1_33h.CSV</a><br/>|
 |1|34|<a>https://sullystats.github.io/Statistics6e/Data/Chapter9/9_1_34.CSV</a><br/>|
