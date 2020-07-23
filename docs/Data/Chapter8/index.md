@@ -9,4 +9,5 @@ Here is the data for Chapter 8.
 | | |
 |2|29|<a>https://sullystats.github.io/Statistics6e/Data/Chapter8/8_2_29.csv</a><br/>|
 | | |
-|Student Activity Workbook| |<a>https://sullystats.github.io/Statistics6e/Data/HomeRun_2018.csv</a><br/>|
+|Student Activity Workbook| |<a>https://sullystats.github.io/Statistics6e/Data/Chapter8/HomeRun_2018.csv</a><br/>|
+|Student Activity Workbook| |<a>https://sullystats.github.io/Statistics6e/Data/Chapter8/ChicagoTaxi.csv</a><br/>|
