@@ -18,11 +18,11 @@ Here is the data for Chapter 3.
 |1|41|<a>https://sullystats.github.io/Statistics6e/Data/Tornadoes_2017.csv</a><br/>|
 |1|42|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_1_42.csv</a><br/>|
 | | |
-|2csv|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_2_19.csv</a><br>|
-|2csv|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_2_20.csv</a><br>|
-|2csv|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_2_21.csv</a><br>|
-|2csv|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_2_22.csv</a><br>|
-|2|23|csvhttps://sullystats.github.io/Statistics6e/Data/Chapter3/3_2_23.csv</a><br>|
+|2|19|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_2_19.csv</a><br>|
+|2|20|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_2_20.csv</a><br>|
+|2|21|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_2_21.csv</a><br>|
+|2|22|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_2_22.csv</a><br>|
+|2|23|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_2_23.csv</a><br>|
 |2|24|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_2_24.csv</a><br>|
 |2|25|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_2_25.csv</a><br>|
 |2|26|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_2_26.csv</a><br>|
