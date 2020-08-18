@@ -5,7 +5,7 @@ Here is the data for Chapter 3.
 |1|19|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_1_19.csv</a><br/>|
 |1|20|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_1_20.csv</a><br/>|
 |1|21|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_1_21.csv</a><br/>|
-|1|22|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_1_22.csv</a><brcsv
+|1|22|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_1_22.csv</a><br/>|
 |1|25|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_1_25.csv</a><br/>|
 |1|26|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_1_26.csv</a><br/>|
 |1|27|<a>https://sullystats.github.io/Statistics6e/Data/Chapter3/3_1_27.csv</a><br/>|
