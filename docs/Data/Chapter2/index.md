@@ -55,7 +55,7 @@ Here is the data for Chapter 2.
 |Chapter Review|5|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_r_5.CSV</a><br/>|
 |Chapter Review|6|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_r_6.CSV</a><br/>|
 |Chapter Review|7|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_r_7.CSV</a><br/>|
-|Chapter Review|8|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_r_8.CSV</a><br/>|
+|Chapter Review|8|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_r_8.csv</a><br/>|
 |Chapter Review|10|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_r_10.CSV</a><br/>|
 | | |
 |Chapter Test|2|<a>https://sullystats.github.io/Statistics6e/Data/Chapter2/2_ct_2.CSV</a><br/>|
