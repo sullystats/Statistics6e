@@ -2,6 +2,7 @@ Here is the data for Chapter 12.
 
 |Section|Problem|URL|
 |:---:|:---:|:---:|
+|1|Table 1|<a>https://sullystats.github.io/Statistics6e/Data/Chapter12/Table1.csv</a><br/>|
 |1|22|<a>https://sullystats.github.io/Statistics6e/Data/Chapter12/12_1_22.csv</a><br/>|
 |1|27|<a>https://sullystats.github.io/Statistics6e/Data/Chapter12/12_1_27.csv</a><br/>|
 |1|28|<a>https://sullystats.github.io/Statistics6e/Data/Chapter12/12_1_28.csv</a><br/>|
