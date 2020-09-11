@@ -45,3 +45,11 @@ Here is the data for Chapter 13.
 |4|21|<a>https://sullystats.github.io/Statistics6e/Data/Chapter13/13_4_21.csv</a><br/>|
 |4|22|<a>https://sullystats.github.io/Statistics6e/Data/Chapter13/13_4_22.csv</a><br/>|
 | | |
+|Chapter Review|3|<a>https://sullystats.github.io/Statistics6e/Data/Chapter13/13_r_3.csv</a><br/>|
+|Chapter Review|5|<a>https://sullystats.github.io/Statistics6e/Data/Chapter13/13_r_5.csv</a><br/>|
+|Chapter Review|6|<a>https://sullystats.github.io/Statistics6e/Data/Chapter13/13_r_6.csv</a><br/>|
+|Chapter Review|7|<a>https://sullystats.github.io/Statistics6e/Data/Chapter13/13_r_7.csv</a><br/>|
+| | |
+|Chapter Test|1|<a>https://sullystats.github.io/Statistics6e/Data/Chapter13/13_ct_1.csv</a><br/>|
+|Chapter Test|2|<a>https://sullystats.github.io/Statistics6e/Data/Chapter13/13_ct_2.csv</a><br/>|
+|Chapter Test|3|<a>https://sullystats.github.io/Statistics6e/Data/Chapter13/13_ct_3.csv</a><br/>|
