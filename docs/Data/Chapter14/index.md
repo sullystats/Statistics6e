@@ -49,3 +49,31 @@ Here is the data for Chapter 14.
 |3|18|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_3_18.csv</a><br/>|
 |3|19|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_3_19.csv</a><br/>|
 | | |
+|4|9|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_4_9.csv</a><br/>|
+|4|10|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_4_10.csv</a><br/>|
+|4|12|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_4_12.csv</a><br/>|
+| | |
+|5|3|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_5_3.csv</a><br/>|
+|5|4|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_5_4.csv</a><br/>|
+|5|5|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_5_5.csv</a><br/>|
+| | |
+|6|1|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_6_1.csv</a><br/>|
+|6|2|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_6_2.csv</a><br/>|
+|6|3|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_6_3.csv</a><br/>|
+|6|4|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_6_4.csv</a><br/>|
+|6|5|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_6_5.csv</a><br/>|
+|6|6|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_6_6.csv</a><br/>|
+|6|7|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_6_7.csv</a><br/>|
+|6|8|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_6_8.csv</a><br/>|
+| | |
+|Chapter Review|2|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_r_2.csv</a><br/>|
+|Chapter Review|3|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_r_3.csv</a><br/>|
+|Chapter Review|4|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_r_4.csv</a><br/>|
+|Chapter Review|5|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_r_5.csv</a><br/>|
+|Chapter Review|7|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_r_7.csv</a><br/>|
+|Chapter Review|10|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_r_10.csv</a><br/>|
+| | |
+|Chapter Test|2|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_ct_2.csv</a><br/>|
+|Chapter Test|3|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_ct_3.csv</a><br/>|
+|Chapter Test|4|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_ct_4.csv</a><br/>|
+|Chapter Test|6|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_ct_6.csv</a><br/>|
