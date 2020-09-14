@@ -26,4 +26,26 @@ Here is the data for Chapter 14.
 |1A|7|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_1A_7.csv</a><br/>|
 |1A|8|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_1A_8.csv</a><br/>|
 | | |
-|1A|1|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_1A_1.csv</a><br/>|
+|2|7|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_2_7.csv</a><br/>|
+|2|8|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_2_8.csv</a><br/>|
+|2|9|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_2_9.csv</a><br/>|
+|2|10|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_2_10.csv</a><br/>|
+|2|11|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_2_11.csv</a><br/>|
+|2|12|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_2_12.csv</a><br/>|
+|2|13|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_2_13.csv</a><br/>|
+|2|14|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_2_14.csv</a><br/>|
+|2|15|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_2_15.csv</a><br/>|
+|2|17|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_2_17.csv</a><br/>|
+|2|18|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_2_18.csv</a><br/>|
+|2|19|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_2_19.csv</a><br/>|
+| | |
+|3|9|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_3_9.csv</a><br/>|
+|3|10|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_3_10.csv</a><br/>|
+|3|11|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_3_11.csv</a><br/>|
+|3|12|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_3_12.csv</a><br/>|
+|3|15|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_3_15.csv</a><br/>|
+|3|16|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_3_16.csv</a><br/>|
+|3|17|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_3_17.csv</a><br/>|
+|3|18|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_3_18.csv</a><br/>|
+|3|19|<a>https://sullystats.github.io/Statistics6e/Data/Chapter14/14_3_19.csv</a><br/>|
+| | |
