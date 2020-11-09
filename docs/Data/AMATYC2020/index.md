@@ -1,1 +1,11 @@
+Here is the data from the "What Is a P-value?" talk from AMATYC 2020. 
+
+|Section|Problem|URL|
+|:---:|:---:|:---:|
+|1|47,48|<a>https://sullystats.github.io/Statistics6e/Data/Tornadoes_2017.csv</a><br/>|
+|3|11|<a>https://sullystats.github.io/Statistics6e/Data/Chapter1/1_3_11.csv</a><br/>|
+|3|12|<a>https://sullystats.github.io/Statistics6e/Data/Chapter1/1_3_12.csv</a><br/>|
+|3|15|<a>https://sullystats.github.io/Statistics6e/Data/Chapter1/1_3_15.csv</a><br/>|
+|3|16|<a>https://sullystats.github.io/Statistics6e/Data/Chapter1/1_3_16.csv</a><br/>|
+|3|17|<a>https://sullystats.github.io/Statistics6e/Data/Chapter1/1_3_17.csv</a><br/>|
 
