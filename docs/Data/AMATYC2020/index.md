@@ -1,11 +1,7 @@
 Here is the data from the "What Is a P-value?" talk from AMATYC 2020. 
 
-|Section|Problem|URL|
+|Data|URL|
 |:---:|:---:|:---:|
-|1|47,48|<a>https://sullystats.github.io/Statistics6e/Data/Tornadoes_2017.csv</a><br/>|
-|3|11|<a>https://sullystats.github.io/Statistics6e/Data/Chapter1/1_3_11.csv</a><br/>|
-|3|12|<a>https://sullystats.github.io/Statistics6e/Data/Chapter1/1_3_12.csv</a><br/>|
-|3|15|<a>https://sullystats.github.io/Statistics6e/Data/Chapter1/1_3_15.csv</a><br/>|
-|3|16|<a>https://sullystats.github.io/Statistics6e/Data/Chapter1/1_3_16.csv</a><br/>|
-|3|17|<a>https://sullystats.github.io/Statistics6e/Data/Chapter1/1_3_17.csv</a><br/>|
-
+|HomeRuns_2019|<a>https://sullystats.github.io/Statistics6e/Data/AMATYC/Home_Runs_2019.csv</a><br/>|
+|HomeRuns_CoorsField_2019|<a>https://sullystats.github.io/Statistics6e/Data/AMATYC/HomeRun_CoorsField_2019.csv</a><br/>|
+|HomeRuns_MillerPark_2019|<a>https://sullystats.github.io/Statistics6e/Data/AMATYC/HomeRuns_MillerPark_2019.csv</a><br/>|
